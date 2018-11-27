@@ -1,4 +1,4 @@
-package poleProstokata;
+package math;
 
 import java.util.Scanner;
 
