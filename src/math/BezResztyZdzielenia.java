@@ -29,7 +29,7 @@ public class BezResztyZdzielenia {
         BezResztyZdzielenia zReszta = new BezResztyZdzielenia(37,11);
 
         bezReszty.bez();
-        bezReszty.reszta();
+        zReszta.reszta();
 
 
     }
