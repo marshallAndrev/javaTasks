@@ -47,12 +47,20 @@ public class FunkcjeMatymatyczne {
         dodawanie = x + y;
         odejmowanie = x - y;
         mnozenie = x * y;
-        dzielenie = x / y;
 
         System.out.println("Dodawanie: " + dodawanie);
         System.out.println("Odejmowanie: " + odejmowanie);
         System.out.println("Mnozenie: " + mnozenie);
-        System.out.println("Dzielenie: " + dzielenie);
+
+        if (y != 0) {
+            dzielenie = x / y;
+            System.out.println("Dzielenie: " + dzielenie);
+        } else {
+            System.out.println("Dzielenie przez 0 niedozwolone");
+        }
+
+
+
 
     }
 }

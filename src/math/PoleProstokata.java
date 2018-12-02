@@ -9,14 +9,22 @@ public class PoleProstokata {
         double a, b;
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Podaj dlugosc boku a: ");
-        a = scanner.nextDouble();
 
-        System.out.println("Podaj dlugosc boku b: ");
-        b = scanner.nextDouble();
+        try {
+            System.out.println("Podaj dlugosc boku a: ");
+            a = scanner.nextDouble();
+            System.out.println("Podaj dlugosc boku b: ");
+            b = scanner.nextDouble();
+            double wynik = a * b;
+            System.out.println("Pole prostokata wynosi: " + wynik);
+        } catch (Exception e) {
+            System.out.println("Polecial wyjatek");
+        }
 
-        double wynik = a * b;
-        System.out.println("Pole prostokata wynosi: " + wynik);
+
+
+
+
     }
 
 }
