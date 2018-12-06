@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6f1652-fa8d-46ce-85fa-dab79690dd7e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/instrukcjewarunkowe/WartoscXzRownania.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/math/FunkcjeMatymatyczne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/math/FunkcjeMatymatyczne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/math/PoleProstokata.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/FunkcjeMatymatyczne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/FunkcjeMatymatyczne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/math/PoleProstokata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/PoleProstokata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/instrukcjewarunkowe/SprawdzanieCzyProstokatny.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/instrukcjewarunkowe/SprawdzanieCzyProstokatny.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,60 +17,74 @@
     <session id="729167460">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="1" />
           <entry key="project.open.time.55" value="2" />
           <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="2" />
           <entry key="project.open.time.65" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="java" value="18" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="18" />
+          <entry key="JAVA" value="29" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="6" />
-          <entry key="java" value="3644" />
+          <entry key="java" value="5537" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3644" />
+          <entry key="JAVA" value="5537" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/math/PoleProstokata.java">
+        <entry file="file://$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPetlaWhile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="120">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/SprawdzanieCzyProstokatny.java">
+        <entry file="file://$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaFor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="120">
+              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPentlaDoWhile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -102,6 +114,13 @@
         <option value="$PROJECT_DIR$/src/math/FunkcjeMatymatyczne.java" />
         <option value="$PROJECT_DIR$/src/math/PoleProstokata.java" />
         <option value="$PROJECT_DIR$/src/instrukcjewarunkowe/SprawdzanieCzyProstokatny.java" />
+        <option value="$PROJECT_DIR$/src/instrukcjewarunkowe/PierwiastkiRownaniaZwarunkami.java" />
+        <option value="$PROJECT_DIR$/src/instrukcjewarunkowe/WartoscXzRownania.java" />
+        <option value="$PROJECT_DIR$/src/instrukcjewarunkowe/LiczbyPseudolosowe.java" />
+        <option value="$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPetlaFor.java" />
+        <option value="$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPentlaDoWhile.java" />
+        <option value="$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPetlaWhile.java" />
+        <option value="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaFor.java" />
       </list>
     </option>
   </component>
@@ -117,7 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -135,17 +154,29 @@
               <item name="ZadaniaJavaKsiazka" type="b2602c69:ProjectViewProjectNode" />
               <item name="ZadaniaJavaKsiazka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="instrukcjewarunkowe" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZadaniaJavaKsiazka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZadaniaJavaKsiazka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iteracje" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ZadaniaJavaKsiazka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZadaniaJavaKsiazka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="math" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543784854648" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544118505732" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -161,68 +192,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SprawdzanieCzyProstokatny">
-    <configuration name="BezResztyZdzielenia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.BezResztyZdzielenia" />
-      <module name="ZadaniaJavaKsiazka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FunkcjeMatymatyczne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.FunkcjeMatymatyczne" />
-      <module name="ZadaniaJavaKsiazka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjetoscKuli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjetoscKuli" />
-      <module name="ZadaniaJavaKsiazka" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjetoscKuli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.ObjetoscKuli" />
-      <module name="ZadaniaJavaKsiazka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PoleProstokata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.PoleProstokata" />
-      <module name="ZadaniaJavaKsiazka" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SprawdzanieCzyProstokatny" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="instrukcjewarunkowe.SprawdzanieCzyProstokatny" />
+  <component name="RunManager" selected="Application.WyswietlaLiczbyCalkowitePetlaFor">
+    <configuration name="LiczbyPseudolosowe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instrukcjewarunkowe.LiczbyPseudolosowe" />
       <module name="ZadaniaJavaKsiazka" />
       <extension name="coverage">
         <pattern>
@@ -234,20 +206,72 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObliczanieWartosciFunkcjiPetlaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iteracje.ObliczanieWartosciFunkcjiPetlaFor" />
+      <module name="ZadaniaJavaKsiazka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iteracje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObliczanieWartosciFunkcjiPetlaWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iteracje.ObliczanieWartosciFunkcjiPetlaWhile" />
+      <module name="ZadaniaJavaKsiazka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iteracje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WartoscXzRownania" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="instrukcjewarunkowe.WartoscXzRownania" />
+      <module name="ZadaniaJavaKsiazka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="instrukcjewarunkowe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WyswietlaLiczbyCalkowitePetlaFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iteracje.WyswietlaLiczbyCalkowitePetlaFor" />
+      <module name="ZadaniaJavaKsiazka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iteracje.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.PoleProstokata" />
-      <item itemvalue="Application.ObjetoscKuli" />
-      <item itemvalue="Application.BezResztyZdzielenia" />
-      <item itemvalue="Application.FunkcjeMatymatyczne" />
-      <item itemvalue="Application.SprawdzanieCzyProstokatny" />
+      <item itemvalue="Application.WartoscXzRownania" />
+      <item itemvalue="Application.LiczbyPseudolosowe" />
+      <item itemvalue="Application.ObliczanieWartosciFunkcjiPetlaFor" />
+      <item itemvalue="Application.ObliczanieWartosciFunkcjiPetlaWhile" />
+      <item itemvalue="Application.WyswietlaLiczbyCalkowitePetlaFor" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SprawdzanieCzyProstokatny" />
-        <item itemvalue="Application.PoleProstokata" />
-        <item itemvalue="Application.FunkcjeMatymatyczne" />
-        <item itemvalue="Application.BezResztyZdzielenia" />
-        <item itemvalue="Application.ObjetoscKuli" />
+        <item itemvalue="Application.WyswietlaLiczbyCalkowitePetlaFor" />
+        <item itemvalue="Application.ObliczanieWartosciFunkcjiPetlaWhile" />
+        <item itemvalue="Application.ObliczanieWartosciFunkcjiPetlaFor" />
+        <item itemvalue="Application.LiczbyPseudolosowe" />
+        <item itemvalue="Application.WartoscXzRownania" />
       </list>
     </recent_temporary>
   </component>
@@ -268,17 +292,16 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Thumbnails" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32569557" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -287,6 +310,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Thumbnails" order="11" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -335,10 +359,10 @@
         <state relative-caret-position="-216" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/BezResztyZdzielenia.java">
+    <entry file="file://$PROJECT_DIR$/src/math/ObjetoscKuli.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="264">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -349,9 +373,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/FunkcjeMatymatyczne.java">
+    <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/PierwiastkiRownaniaZwarunkami.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="23" column="10" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/SprawdzanieCzyProstokatny.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/WartoscXzRownania.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/BezResztyZdzielenia.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/FunkcjeMatymatyczne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
           <caret line="53" selection-start-line="53" selection-end-line="53" />
         </state>
       </provider>
@@ -363,17 +415,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/ObjetoscKuli.java">
+    <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/LiczbyPseudolosowe.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="256">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/instrukcjewarunkowe/SprawdzanieCzyProstokatny.java">
+    <entry file="file://$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPetlaFor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="360">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPentlaDoWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iteracje/ObliczanieWartosciFunkcjiPetlaWhile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaFor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
