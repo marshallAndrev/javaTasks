@@ -4,7 +4,8 @@ import java.util.Random;
 
 public class NajwiekszaNajmniejszaLiczbaZeZbioru {
     public static void main(String[] args) {
-        int max, min, suma;
+        int max, min;
+        int suma = 0;
         int liczba;
         int zbiorLosowanych = 5;
         Random random = new Random();
@@ -21,9 +22,11 @@ public class NajwiekszaNajmniejszaLiczbaZeZbioru {
             if (liczba < min) {
                 min = liczba;
             }
+
+            suma+=liczba;
+
         }
-        //System.out.println("suma liczb " + suma);
-        System.out.println();
+        System.out.println("\n" + "suma tych liczb to: " + suma);
         System.out.print("min to: " + min + "\t" + "max to: " + max);
     }
 }

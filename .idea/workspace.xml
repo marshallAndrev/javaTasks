@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e6f1652-fa8d-46ce-85fa-dab79690dd7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ZadaniaJavaKsiazka/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +18,7 @@
         <counts>
           <entry key="project.closed" value="16" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.50" value="1" />
@@ -29,30 +30,30 @@
           <entry key="project.open.time.62" value="2" />
           <entry key="project.open.time.65" value="1" />
           <entry key="project.open.time.73" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="3" />
-          <entry key="java" value="36" />
+          <entry key="java" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="37" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="6" />
-          <entry key="java" value="6700" />
+          <entry key="java" value="6821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6700" />
+          <entry key="JAVA" value="6821" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -60,11 +61,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="121">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -103,8 +113,8 @@
         <option value="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaFor.java" />
         <option value="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaWhile.java" />
         <option value="$PROJECT_DIR$/src/iteracje/SumujeLiczbyCalkowitePetlaFor.java" />
-        <option value="$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java" />
         <option value="$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.java" />
+        <option value="$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java" />
       </list>
     </option>
   </component>
@@ -120,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
@@ -134,15 +145,20 @@
               <item name="ZadaniaJavaKsiazka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ZadaniaJavaKsiazka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZadaniaJavaKsiazka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iteracje" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544267901324" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544456092754" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -256,8 +272,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,7 +283,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32459018" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -432,17 +449,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/iteracje/WyswietlaLiczbyCalkowitePetlaDoWhile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iteracje/NajwiekszaNajmniejszaLiczbaZeZbioru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
