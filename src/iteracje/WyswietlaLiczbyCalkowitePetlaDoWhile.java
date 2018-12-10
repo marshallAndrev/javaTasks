@@ -5,8 +5,7 @@ public class WyswietlaLiczbyCalkowitePetlaDoWhile {
         int i = 1;
 
         do {
-            System.out.print(i + " ");
-            i++;
+            System.out.println(i);
         } while (i <= 20);
     }
 }
