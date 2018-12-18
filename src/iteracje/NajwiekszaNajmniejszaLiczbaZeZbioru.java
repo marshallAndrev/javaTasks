@@ -6,6 +6,7 @@ public class NajwiekszaNajmniejszaLiczbaZeZbioru {
     public static void main(String[] args) {
         int max, min;
         int suma = 0;
+        int srednia = 0;
         int liczba;
         int zbiorLosowanych = 5;
         Random random = new Random();
@@ -24,9 +25,11 @@ public class NajwiekszaNajmniejszaLiczbaZeZbioru {
             }
 
             suma+=liczba;
+            srednia = suma / zbiorLosowanych;
 
         }
         System.out.println("\n" + "suma tych liczb to: " + suma);
-        System.out.print("min to: " + min + "\t" + "max to: " + max);
+        System.out.print("min to: " + min + "\t" + "max to: " + max + "\n");
+        System.out.println("srednia liczb to: " + srednia);
     }
 }
